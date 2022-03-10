@@ -1,0 +1,24 @@
+h1, h2, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: violet;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+h3 {
+    color: rgb(133, 133, 5);
+}
+
+body {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.sola-yasla {
+    text-align: left;
+}
